@@ -1,4 +1,4 @@
-{"id": 2, "name": "Two ", "buy_price": 65.0, "sell_price": 80.0, "availability": 40, "total_profit": 1040.0}
-{"id": 3, "name": "Three", "buy_price": 80.0, "sell_price": 120.0, "availability": 30, "total_profit": 0}
-{"id": 5, "name": "Five", "buy_price": 50.0, "sell_price": 90.0, "availability": 120, "total_profit": 0}
+{"id": 3, "name": "Three", "buy_price": 80.0, "sell_price": 120.0, "availability": 60, "total_profit": 2400.0}
+{"id": 5, "name": "Five", "buy_price": 50.0, "sell_price": 90.0, "availability": 0, "total_profit": 10800.0}
 {"id": 7, "name": "Seven", "buy_price": 100.0, "sell_price": 120.0, "availability": 48, "total_profit": 0}
+{"id": 8, "name": "G_Shock Watch", "buy_price": 660.0, "sell_price": 990.0, "availability": 20, "total_profit": 0}
